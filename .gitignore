@@ -1,0 +1,11 @@
+dist/
+build/
+__pycache__/
+*.pyc
+*.exe
+*.pdf
+*.xlsx
+*.xlsm
+*.json
+*.spec
+.env
